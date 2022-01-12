@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manocaioz.github.io/csb-yj3uc/static/css/main.e36be547.chunk.css",
+    "main.js": "https://manocaioz.github.io/csb-yj3uc/static/js/main.5000e179.chunk.js",
+    "main.js.map": "https://manocaioz.github.io/csb-yj3uc/static/js/main.5000e179.chunk.js.map",
+    "runtime-main.js": "https://manocaioz.github.io/csb-yj3uc/static/js/runtime-main.d45d07f6.js",
+    "runtime-main.js.map": "https://manocaioz.github.io/csb-yj3uc/static/js/runtime-main.d45d07f6.js.map",
+    "static/js/2.6e29933f.chunk.js": "https://manocaioz.github.io/csb-yj3uc/static/js/2.6e29933f.chunk.js",
+    "static/js/2.6e29933f.chunk.js.map": "https://manocaioz.github.io/csb-yj3uc/static/js/2.6e29933f.chunk.js.map",
+    "index.html": "https://manocaioz.github.io/csb-yj3uc/index.html",
+    "static/css/main.e36be547.chunk.css.map": "https://manocaioz.github.io/csb-yj3uc/static/css/main.e36be547.chunk.css.map",
+    "static/js/2.6e29933f.chunk.js.LICENSE.txt": "https://manocaioz.github.io/csb-yj3uc/static/js/2.6e29933f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d45d07f6.js",
+    "static/js/2.6e29933f.chunk.js",
+    "static/css/main.e36be547.chunk.css",
+    "static/js/main.5000e179.chunk.js"
+  ]
+}
